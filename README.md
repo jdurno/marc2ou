@@ -7,4 +7,6 @@ File /includes/php-marc.php is the 2005 version of the PHP-MARC package from the
 
 The PHP-MARC package has long since been superceded by Dan Scott's File_MARC PEAR package but I haven't bothered to update my code.
 
+Last updated: May 1, 2014
+
 
